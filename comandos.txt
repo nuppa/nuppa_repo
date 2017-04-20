@@ -1,0 +1,10 @@
+:command-name: - Descrição do comando
+
+:email: - Email e senha do grupo
+:emailmembers: - Lista email do pessoal do grupo
+:repositório: - Repositório no GitHub
+:reunião: - Info da reunião
+:plugdj: - Link do Plug
+
+Para adicionar mais comandos, acessar:
+https://nuppa.slack.com/customize/slackbot
