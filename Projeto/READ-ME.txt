@@ -1,0 +1,12 @@
+Here's the complete guide to construct the database from Xeno-Canto website:
+
+1. Open a terminal and run the following command:
+    python downloadAudios.py BIRD_NAME NUM_OF_PAGES
+
+    1.1. Arguments:
+    1.1.1. 'BIRD_NAME' should be something like: vanellus+chilensis
+    ** The '+' representing space
+    1.1.2. 'NUM_OF_PAGES' is the number of pages you're downloading. Each page contains 30 (max) audio files.
+
+2. Optionally you can convert all files into .wav. To do it, run the following:
+    sudo python convert_into_wav.py BIRD_NAME
